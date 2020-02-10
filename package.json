@@ -1,0 +1,29 @@
+{
+  "name": "prayertimes",
+  "version": "1.0.0",
+  "description": "prayer times for a city  using nodejs and fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAJIDNISAR/PrayerTimes.git"
+  },
+  "keywords": [
+    "nodejs",
+    "fastify",
+    "prayertimes"
+  ],
+  "author": "MAJID NISAR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MAJIDNISAR/PrayerTimes/issues"
+  },
+  "homepage": "https://github.com/MAJIDNISAR/PrayerTimes#readme",
+  "dependencies": {
+    "fastify": "^2.12.0",
+    "fastify-cli": "^1.4.0",
+    "fastify-plugin": "^1.6.0"
+  }
+}
